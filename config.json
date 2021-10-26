@@ -1,0 +1,12 @@
+{
+  "prefix": "+",
+  "token": "ODcxMDE0MDU2MTQ2OTE1MzM4.YQVJDQ.XYiNj8i8W1UGbEafhUsTaysc-p4",
+  "owners": ["730810996217741432"],
+  "footer": "NSFW Bot • is.gd/nsfwbot",
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
+}
