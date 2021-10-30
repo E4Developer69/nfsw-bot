@@ -6,7 +6,7 @@
 
 # Bot Setup ⚒
 
-- Clone the Repo by typing git clone `https://github.com/Just-Msv/Discord-Anti-Bot` or Download the .rar file
+- Clone the Repo by typing git clone `https://github.com/E4Developer69/nfsw-bot` or Download the .rar file
 - Set up your `.env` file with your respective information.
 - **Install** all the packages by typing `npm i`
 - **Start** the bot by typing `npm start`.
