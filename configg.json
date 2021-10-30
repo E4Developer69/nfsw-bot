@@ -1,0 +1,20 @@
+{
+  "796397022692638750": {
+    "banLimit": "1",
+    "chaDelLimit": 1,
+    "roleDelLimit": 1,
+    "kickLimits": 1,
+    "chaCrLimit": 1,
+    "roleCrLimits": 1,
+    "time": 0.1
+  },
+  "734530491025195078": {
+    "banLimit": 5,
+    "chaDelLimit": "0",
+    "roleDelLimit": "1",
+    "kickLimits": "1",
+    "chaCrLimit": 5,
+    "roleCrLimits": "1",
+    "time": 0.1
+  }
+}
